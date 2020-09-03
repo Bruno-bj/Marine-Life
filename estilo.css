@@ -1,0 +1,17 @@
+html, body{
+    margin: 0;
+    height: 100%;
+}
+#Imagem_fundo{
+    background: url(img/1.jpg);
+    height: 100%;
+    text-align: center;
+}
+#Titulo{
+    color: cornsilk;
+
+}
+#SubTitulo{
+    color: cornsilk;
+    
+}
